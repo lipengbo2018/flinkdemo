@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea
+example/target/
+example/src/main/resources/
+kafka2clickhouse/src/main/resources/
+kafka2clickhouse/target/
